@@ -1,0 +1,46 @@
+
+.middel-color{
+
+    background-color: #ACE2E1;
+}
+
+hr.custom-style{
+    width: 10%;
+    border-style: none none dotted none ;
+    border-color: grey;
+    border-width: 10px;
+    margin: 0 auto; /* Centers the hr */
+    opacity: 1;
+    
+  }
+
+h1{
+    font-family: "Playwrite CU", cursive;
+    
+}
+.img-width{
+    width: 15%;
+}
+
+@media (max-width: 900px) {
+    
+.img-width{
+    width: 50%;
+}
+}
+.merriweather-light {
+    font-family: "Merriweather", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  .back-color{
+    background-color: #076178;
+    color: white;
+
+        
+    
+  }
+  .footer-link{
+    color: white;
+    
+  }
